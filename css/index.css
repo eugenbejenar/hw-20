@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+.container {
+  margin: 0 auto;
+  width: 20%;
+}
+.container .button1,
+.container .button2,
+.container .button3 {
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+.container .button1 {
+  background-color: blue;
+}
+.container .button2 {
+  background-color: green;
+}
+.container .button3 {
+  background-color: red;
+}
+
+/*# sourceMappingURL=index.css.map */
